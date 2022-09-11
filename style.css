@@ -3,7 +3,7 @@
 
 #header {background-color: #85929E;
         height: 50px;}
-#contenido {background-color: white;}
+#lateral_izq {background-color: white;}
 #principal  {background-color: #5499C7;}
 #footer {background-color: #F7DC6F;}
 
@@ -24,15 +24,17 @@
 
 
 #Texto1{
-    background-color: beige;
+    background-color: #CD6155;
     margin-left: -10px;
     width:105%;
-    height: 64%;
+    height: 61%;
     float:left;
     font-family:Verdana;
-    font-size:70%;
+    font-size:90%;
+    color: blue;
     text-align:justify;
     }
+#name {color: black;}
 
 #p_texto1{
     text-align:center;
@@ -52,9 +54,10 @@
     }
 
 #imagen2{
+    width: 100%;
     margin-top: 20px;
-    width: 800px;
-  /*  float:center;*/}
+    margin-bottom: 20px;
+    float:center;}
 
 #adicionales {
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
@@ -68,15 +71,14 @@
 #imagen3 {
     width: 45%;
     margin-top: 10px;    
-
 }
-
-#imagen4{width: 70%;
+/*
+#notebook{width: 70%;
     margin-left: 15%;
-    margin-top: -85%;   
-    float:bottom;
+    margin-top: -75%;   
+    
     }
-
+*/
 #footer {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         font-size: 10px;
 }
