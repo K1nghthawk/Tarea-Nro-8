@@ -54,7 +54,7 @@
 #imagen2{
     margin-top: 20px;
     width: 800px;
-    float:center;}
+  /*  float:center;*/}
 
 #adicionales {
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
