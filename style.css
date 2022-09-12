@@ -3,9 +3,9 @@
 
 #header {background-color: #85929E;
         height: 50px;}
-#lateral_izq {background-color: white;}
+#lateral_izq {background-color: #CD6155;}
 #principal  {background-color: #5499C7;}
-#footer {background-color: #F7DC6F;}
+#footer {background-color: #58D68D;}
 
 #logo_face {float: right;
     width: 30px;}
@@ -24,7 +24,7 @@
 
 
 #Texto1{
-    background-color: #CD6155;
+    
     margin-left: -10px;
     width:105%;
     height: 61%;
